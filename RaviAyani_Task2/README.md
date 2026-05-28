@@ -1,4 +1,4 @@
-# Personal Portfolio Website - OIBSIP Task 3
+# Personal Portfolio Website - OIBSIP Task 2
 
 ### Level: 1 | Task: 2
 ### Submitted by: Ravi Ayani
