@@ -1,6 +1,6 @@
-# Personal Portfolio Website - OIBSIP Task 3
+# Personal Portfolio Website - OIBSIP Task 2
 
-### Level: 1 | Task: 3
+### Level: 1 | Task: 2
 ### Submitted by: Ravi Ayani
 
 ## 📌 Description
@@ -40,4 +40,4 @@ A fully responsive personal portfolio website showcasing my skills, projects, an
 **Ravi Ayani**  
 GitHub: [@raviayani00](https://github.com/raviayani00)  
 Email: raviayani15@gmail.com
-**Oasis Infobyte Web Development Internship - Level 1 Task 3**
+**Oasis Infobyte Web Development Internship - Level 1 Task 2**
