@@ -23,6 +23,22 @@ nav {
     top: 0;
     z-index: 100;
 }
+.hero h1 {
+  color: #0a192f !important;
+  background: none !important;
+  -webkit-text-fill-color: #0a192f !important;
+  text-shadow: none !important;
+}
+
+/* Nav Links - Dark Blue */
+.nav-links li a {
+  color: #0a192f !important;
+  font-weight: 600 !important;
+}
+
+.nav-links li a:hover {
+  color: #ffffff !important;
+}
 
 .logo {
     color: #fff;
@@ -163,10 +179,4 @@ footer {
     section {
         padding: 60px 20px;
     }
-    .hero h1 {
-  color: #0a192f !important;
-  background: none !important;
-  -webkit-text-fill-color: #0a192f !important;
-  -webkit-background-clip: unset !important;
-  text-shadow: none !important;
-}
+   
