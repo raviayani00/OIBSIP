@@ -251,7 +251,6 @@ footer {
   margin-top: 25px;
   transition: 0.3s;
 }
-
 .resume-btn:hover {
   background: #2563eb;
   transform: translateY(-2px);
@@ -261,18 +260,30 @@ footer {
   font-weight: 900 !important;
   color: #00d4ff !important;
   letter-spacing: 4px !important;
+    white-space: nowrap !important;
 }
 .nav-right {
   display: flex !important;
   gap: 45px !important;  
-
 .nav-right a {
   color: white !important;
   text-decoration: none !important;
   font-size: 17px !important;
   font-weight: 500 !important;
 }
-
 .nav-right a:hover {
   color: #00d4ff !important;
 }
+@media only screen and (max-width: 768px) {
+ .nav-left {
+     font-size: 1.6rem !important;
+    letter-spacing: 2px !important;
+    }   
+  .nav-right {
+     gap: 15px !important;  /* 35px se 15px kar diya */
+     flex-wrap: wrap !important;
+   }
+    .nav-right a {
+      font-size: 14px !important; /* 17px se 14px */
+   }
+  }
