@@ -1,4 +1,4 @@
-* {
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -21,8 +21,6 @@ body {
     color: var(--light);
     line-height: 1.6;
 }
-
-/* Navbar */
 header {
     position: fixed;
     width: 100%;
@@ -32,7 +30,6 @@ header {
     z-index: 1000;
     border-bottom: 1px solid rgba(255,255,255,0.1);
 }
-
 .navbar {
     max-width: 1200px;
     margin: 0 auto;
@@ -64,8 +61,6 @@ header {
 .nav-links a:hover {
     color: var(--primary);
 }
-
-/* Hero */
 .hero {
     min-height: 100vh;
     display: flex;
@@ -75,16 +70,13 @@ header {
     padding: 0 5%;
     background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
 }
-
 .hero-content h1 {
     font-size: 3.5rem;
     margin-bottom: 1rem;
 }
-
 .hero-content h1 span {
     color: var(--primary);
 }
-
 .hero-content h2 {
     font-size: 1.8rem;
     color: var(--gray);
@@ -153,8 +145,6 @@ section {
     color: var(--gray);
     font-size: 1.1rem;
 }
-
-/* Skills */
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -180,8 +170,6 @@ section {
     color: var(--primary);
     margin-bottom: 1rem;
 }
-
-/* Projects */
 .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -214,8 +202,6 @@ section {
     border-radius: 20px;
     font-size: 0.85rem;
 }
-
-/* Contact */
 .contact-content {
     max-width: 600px;
     margin: 0 auto;
@@ -240,8 +226,6 @@ section {
     font-size: 1.5rem;
     color: var(--primary);
 }
-
-/* Footer */
 footer {
     text-align: center;
     padding: 2rem;
