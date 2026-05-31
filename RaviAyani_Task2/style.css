@@ -255,3 +255,19 @@ footer {
     .hero-content h1 { font-size: 2.5rem; }
     .hero-btns { flex-direction: column; }
 }
+.resume-btn {
+  display: inline-block;
+  background: #ff7e1d;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: 25px;
+  transition: 0.3s;
+}
+
+.resume-btn:hover {
+  background: #2563eb;
+  transform: translateY(-2px);
+}
