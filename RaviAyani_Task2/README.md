@@ -33,7 +33,7 @@ A fully responsive personal portfolio website showcasing my skills, projects, an
 
 ## 🔧 How to Run
 1. Clone this repository
-2. Navigate to `RaviAyani_Task3` folder
+2. Navigate to `RaviAyani_Task2` folder
 3. Open `index.html` in your browser
 
 ## 👨‍💻 Author
@@ -43,5 +43,5 @@ Email: raviayani15@gmail.com
 
 **Oasis Infobyte Web Development Internship - Level 1 Task 2**
 
-[Click Here to View Live](https://raviayani00.github.io/OIBSIP/RaviAyani_Task2/)
+
 
