@@ -21,3 +21,14 @@ A responsive temperature converter website that converts temperature values betw
 
 ## 🚀 Live Demo
 [Click Here to View Live](https://raviayani00.github.io/OIBSIP/RaviAyani_Task3/)
+
+## 🔧 How to Run
+1. Clone this repository
+2. Navigate to RaviAyani_Task3 folder
+3. Open `index.html` in your browser
+
+## 👨‍💻 Author
+**Ravi Ayani**  
+Email: raviayani15@gmail.com  
+
+Oasis Infobyte Web Development Internship - Level 1 Task 3
