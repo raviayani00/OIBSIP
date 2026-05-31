@@ -256,3 +256,23 @@ footer {
   background: #2563eb;
   transform: translateY(-2px);
 }
+.nav-left {
+  font-size: 2.2rem !important;
+  font-weight: 900 !important;
+  color: #00d4ff !important;
+  letter-spacing: 4px !important;
+}
+.nav-right {
+  display: flex !important;
+  gap: 45px !important;  
+
+.nav-right a {
+  color: white !important;
+  text-decoration: none !important;
+  font-size: 17px !important;
+  font-weight: 500 !important;
+}
+
+.nav-right a:hover {
+  color: #00d4ff !important;
+}
